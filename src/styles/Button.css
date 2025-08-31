@@ -1,0 +1,22 @@
+.back-button {
+  display: flex;
+  align-items: center;
+  padding: 4px 6px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 14px;
+  box-shadow: none;
+  outline: none;
+  transition: none;
+}
+
+.back-button:hover {
+  background: transparent; 
+}
+
+.back-icon {
+  font-size: 18px;
+  margin-right: 0; 
+  color: #ffffff; 
+}
