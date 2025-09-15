@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { NavLink } from "react-router-dom";
 import ReservationButton from "./ReservationButton";
 import '../styles/Header.css';
-import logo from "../assets/drink/download.jpeg";
+import logo from "../assets/logos/logo.png";
 
 
 function Header() {
