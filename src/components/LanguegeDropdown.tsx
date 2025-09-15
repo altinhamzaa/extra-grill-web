@@ -1,7 +1,7 @@
 
 import { useTranslation } from "react-i18next";
-import albaniaFlag from "../assets/drink/download.jpeg";
-import usaFlag from "../assets/drink/download.jpeg";
+import albaniaFlag from "../assets/flags/Flag_of_Albania.svg.png";
+import usaFlag from "../assets/flags/Flag_of_the_United_States.svg.png";
 import "../styles/LanguegeDropdown.css";
 
 function LanguageDropdown() {
