@@ -24,7 +24,7 @@ export default function ReservationButton() {
 
   return (
     <a
-      href="tel:+38345889097"
+      href="tel:+38349123456"
       className="back-to-top-btn"
       aria-label="Call now"
     >
